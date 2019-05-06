@@ -189,7 +189,7 @@ and Genetic Algorithm (2018), Tingying Song et al. [[pdf]](http://www.iaeng.org/
 - Bike-sharing: History, Impacts, Models of Provision, and Future(2009), Paul DeMaio. [[pdf]](https://www.nctr.usf.edu/jpt/pdf/JPT12-4DeMaio.pdf)
 - Bicycle-Sharing Schemes: Enhancing Sustainable Mobility in Urban Areas(2011), P Midgley et al. [[pdf]](https://sustainabledevelopment.un.org/content/dsd/resources/res_pdfs/csd-19/Background-Paper8-P.Midgley-Bicycle.pdf)
 - Static repositioning in a bike-sharing system: models and solution approaches(2013), Tal Raviv et al. [[pdf]](https://link.springer.com/article/10.1007/s13676-012-0017-6)
-- Bicycle sharing systems demand(2014), I Frade et al. [[pdf]](file:///Users/byeon/Downloads/bicycle-sharing-systems-demand.pdf)
+- Bicycle sharing systems demand(2014), I Frade et al. [[pdf]](https://cyberleninka.org/article/n/1177610.pdf)
 - Incentivizing Users for Balancing Bike Sharing Systems(2015), A Singla et al. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9942/9319)
 - Mobility Modeling and Prediction in Bike-Sharing Systems(2016), Z Yang et al. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mobisys16bike.pdf) 
     
