@@ -210,5 +210,5 @@ and Genetic Algorithm (2018), Tingying Song et al. [[pdf]](http://www.iaeng.org/
     
     
 ## License
-Distributed under the MIT License. See[LICENSE](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents/blob/master/LICENSE) for more information.    
+Distributed under the MIT License. See [LICENSE](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents/blob/master/LICENSE) for more information.    
   
