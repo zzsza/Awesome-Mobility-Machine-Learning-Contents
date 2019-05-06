@@ -55,7 +55,6 @@
 - Some map matching algorithms for personal navigation assistants(2000), Christopher E. White. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.2506&rep=rep1&type=pdf)
 - On map-matching vehicle tracking data(2005), Sotiris Brakatsoula et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.73.7466&rep=rep1&type=pdf)
 - Map Matching with Travel Time Constraints(2006), John Krumm et al. [[pdf]](https://pdfs.semanticscholar.org/c390/d8b8f2d2ac9ac93bfa3edbad5a29553db612.pdf)
-- [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.473.1158&rep=rep1&type=pdf)
 - Hidden Markov map matching through noise and sparseness(2009), Paul Newson et al. [[pdf]](https://infolab.usc.edu/csci587/Fall2016/papers/Hidden%20Markov%20Map%20Matching%20Through%20Noise%20and%20Sparseness.pdf)
 - Map-matching for low-sampling-rate GPS trajectories(2009), Yin Lou et al. [[pdf]](https://users.wpi.edu/~yli15/courses/DS504Fall17/includes/Mapmatching09.pdf)
 - Online map-matching based on Hidden Markov model for real-time traffic sensing applications(2012), C.Y. Goh, J. Dauwels et al. [[pdf]](http://web.mit.edu/jaillet/www/general/map_matching_itsc2012-final.pdf)
@@ -185,7 +184,7 @@ and Genetic Algorithm (2018), Tingying Song et al. [[pdf]](http://www.iaeng.org/
 ---
 
 ### Bike Sharing
-- [Wikipedia - Bicycle-sharing system](https://en.wikipedia.org/wiki/Bicycle-sharing_system)
+- Bicycle-sharing system, [[Wikipedia]](https://en.wikipedia.org/wiki/Bicycle-sharing_system)
 - Bike-sharing: History, Impacts, Models of Provision, and Future(2009), Paul DeMaio. [[pdf]](https://www.nctr.usf.edu/jpt/pdf/JPT12-4DeMaio.pdf)
 - Bicycle-Sharing Schemes: Enhancing Sustainable Mobility in Urban Areas(2011), P Midgley et al. [[pdf]](https://sustainabledevelopment.un.org/content/dsd/resources/res_pdfs/csd-19/Background-Paper8-P.Midgley-Bicycle.pdf)
 - Static repositioning in a bike-sharing system: models and solution approaches(2013), Tal Raviv et al. [[pdf]](https://link.springer.com/article/10.1007/s13676-012-0017-6)
