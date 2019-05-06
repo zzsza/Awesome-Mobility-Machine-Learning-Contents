@@ -30,6 +30,13 @@
 ---
 
 ### Mobility Company List
+- Aotonomous Vehicle and Mobility Acquisition/Investment/Teams-Up Network - Doowon Cha
+
+<img src="https://www.dropbox.com/s/i4ms8nm4r9ld2v1/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202019-05-06%2013.11.26.png?raw=1">
+
+- A Map of Mobility Service in Korea - Doowon Cha
+
+<img src="https://www.dropbox.com/s/7ytmi5mtz7qicra/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202019-05-06%2013.12.46.png?raw=1">
 
 
 ---
@@ -147,6 +154,7 @@ Learning Approach(2017), Jintao Ke et al. [[pdf]](https://arxiv.org/pdf/1706.062
 - Forecasting Taxi Demands with Fully Convolutional
 Networks and Temporal Guided Embedding(2018), Doyup Lee et al(Kakao Brain). [[pdf]](https://openreview.net/pdf?id=BygF00DuiX), [[blog #1]](https://www.kakaobrain.com/blog/42), [[blog #2]](https://www.kakaobrain.com/blog/43)
     
+---
     
 ### Electric Vehicle
 - A self-learning TLBO based dynamic economic/environmental dispatch considering multiple plug-in electric vehicle loads(2014), Zhile Yang et al. [[pdf]](https://link.springer.com/article/10.1007/s40565-014-0087-6)
@@ -159,11 +167,14 @@ Land Supply(2018), C Guo et al. [[pdf]](https://www.mdpi.com/1996-1073/11/9/2314
 - Optimal Allocation Model for EV Charging
 Stations Coordinating Investor and User Benefits(2018), Youbo Lie et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8371598)
 
+---
+
 ### Platform
 - Flexible Dynamic Task Assignment in Real Time Spatial Data(2017), Yongxin Tong et al. [[pdf]](http://www.vldb.org/pvldb/vol10/p1334-tong.pdf)
 - Ride-Hailing Networks with Strategic Drivers: The Impact of
 Platform Control Capabilities on Performance(2018), Philipp et al. [[pdf]](https://www0.gsb.columbia.edu/faculty/cmaglaras/papers/ride-hailing-02072018.pdf)
 
+---
 
 ### Scheduling Optimization
 - Constraint Programming for Scheduling(2004), John et al. [[pdf]](https://pdfs.semanticscholar.org/01cd/b0ceedc32f30d641f26c70acda2d5a9499c5.pdf)
@@ -199,5 +210,5 @@ and Genetic Algorithm (2018), Tingying Song et al. [[pdf]](http://www.iaeng.org/
     
     
 ## License
-Distributed under the MIT License. See LICENSE for more information.    
+Distributed under the MIT License. See[LICENSE](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents/blob/master/LICENSE) for more information.    
   
