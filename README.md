@@ -38,6 +38,10 @@
 
 <img src="https://www.dropbox.com/s/7ytmi5mtz7qicra/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202019-05-06%2013.12.46.png?raw=1">
 
+- Landscape of Mobility Industry - Korean Autonomous Vehicle Industry
+
+<img src="https://www.dropbox.com/s/4tohfrlrj0xn2b4/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202019-05-06%2023.11.26.jpg?raw=1">
+
 
 ---
 
