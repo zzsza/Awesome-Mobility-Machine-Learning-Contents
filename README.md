@@ -1,6 +1,9 @@
 # Awesome-Mobility-Machine-Learning-Contents
+[![HitCount](http://hits.dwyl.io/zzsza/zzsza/Awesome-Mobility-Machine-Learning-Contents.svg)](http://hits.dwyl.io/zzsza/zzsza/Awesome-Mobility-Machine-Learning-Contents)
+
 - Machine Learning / Deep Learning Contents in Mobility Industry(Transportation) 
-- [![HitCount](http://hits.dwyl.io/zzsza/zzsza/Awesome-Mobility-Machine-Learning-Contents.svg)](http://hits.dwyl.io/zzsza/zzsza/Awesome-Mobility-Machine-Learning-Contents)
+	- I collected it for the purpose of studying
+	- I selected paper with at least 10 citations or latest paper 
 - Made by [Seongyun Byeon](https://github.com/zzsza) working at Socar(Korea Car Sharing Company)
 - Last modified date : 19.05.06
 
