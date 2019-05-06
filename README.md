@@ -44,6 +44,7 @@
 ### Tech Blog
 - [Uber Engineering Blog](https://eng.uber.com/)
 - [Grab Tech](https://engineering.grab.com/)
+- [GO-JEK Tech](https://blog.gojekengineering.com/data-science/home)
 - [Kakao Brain(Only Korea)](https://www.kakaobrain.com/blog)
 
 ---
