@@ -4,8 +4,8 @@
 - Machine Learning / Deep Learning Contents in Mobility Industry(Transportation) 
 	- I collected it for the purpose of studying
 	- I selected paper with at least 10 citations or latest paper 
-- Made by [Seongyun Byeon](https://github.com/zzsza) working at Socar(Korea Car Sharing Company)
-- Last modified date : 19.05.06
+- Made by [Seongyun Byeon](https://github.com/zzsza) working at SOCAR(Korea Car Sharing Company)
+- Last modified date : 19.06.25
 
 ---
 
@@ -47,9 +47,11 @@
 
 ### Tech Blog
 - [Uber Engineering Blog](https://eng.uber.com/)
+- [Lyft Engineering Blog](https://eng.lyft.com/)
 - [Grab Tech](https://engineering.grab.com/)
 - [GO-JEK Tech](https://blog.gojekengineering.com/data-science/home)
 - [Kakao Brain(Only Korea)](https://www.kakaobrain.com/blog)
+- [VCNC Tech Blog(Only Korea)](http://engineering.vcnc.co.kr/)
 
 ---
 
