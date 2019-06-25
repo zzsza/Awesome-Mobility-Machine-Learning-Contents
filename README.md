@@ -124,6 +124,7 @@
 ---
 
 ### Dispatching
+- [A heuristic algorithm for the vehicle dispatch problem](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=3187&context=doctoral_dissertations)
 - Design and Modeling of Real-time Shared-Taxi Dispatch Algorithms(2013), J Jun et al. [[pdf]](https://pdfs.semanticscholar.org/65a1/9bf678e034a9987a5ba9b17c1561afa0c7b8.pdf)
 - Large-Scale Order Dispatch in On-Demand Ride-Sharing Platforms: A Learning and Planning Approach(2018), Zhe Xu et al(DiDi AI Labs). [[pdf]](http://delivery.acm.org/10.1145/3220000/3219824/p905-xu.pdf)
 - Order Dispatch in Price-aware Ridesharing(2018), Libin Zheng et al. [[pdf]](http://www.vldb.org/pvldb/vol11/p853-zheng.pdf)
