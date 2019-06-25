@@ -72,7 +72,7 @@
 - Some map matching algorithms for personal navigation assistants(2000), Christopher E. White. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.2506&rep=rep1&type=pdf)
 - On map-matching vehicle tracking data(2005), Sotiris Brakatsoula et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.73.7466&rep=rep1&type=pdf)
 - Map Matching with Travel Time Constraints(2006), John Krumm et al. [[pdf]](https://pdfs.semanticscholar.org/c390/d8b8f2d2ac9ac93bfa3edbad5a29553db612.pdf)
-- Hidden Markov map matching through noise and sparseness(2009), Paul Newson et al. [[pdf]](https://infolab.usc.edu/csci587/Fall2016/papers/Hidden%20Markov%20Map%20Matching%20Through%20Noise%20and%20Sparseness.pdf)
+- Hidden Markov map matching through noise and sparseness(2009), Paul Newson et al. [[pdf]](https://www.microsoft.com/en-us/research/publication/hidden-markov-map-matching-noise-sparseness/)
 - Map-matching for low-sampling-rate GPS trajectories(2009), Yin Lou et al. [[pdf]](https://users.wpi.edu/~yli15/courses/DS504Fall17/includes/Mapmatching09.pdf)
 - Online map-matching based on Hidden Markov model for real-time traffic sensing applications(2012), C.Y. Goh, J. Dauwels et al. [[pdf]](http://web.mit.edu/jaillet/www/general/map_matching_itsc2012-final.pdf)
 - Large-Scale Joint Map Matching of GPS Traces(2013), Yang Li et al. [[pdf]](http://www.geometrie.tugraz.at/kerber/kerber_papers/lhkzg-lsjmmgt-13.pdf)
