@@ -5,13 +5,14 @@
 	- I collected it for the purpose of studying
 	- I selected paper with at least 10 citations or latest paper 
 - Made by [Seongyun Byeon](https://github.com/zzsza) working at SOCAR(Korea Car Sharing Company)
-- Last modified date : 19.06.25
+- Last modified date : 19.06.27
 
 ---
 
 ## Contents
 - [Mobility Company List](#mobility-company-list)
 - [Tech Blog](#tech-blog)
+- [Presentation](#presentation)
 - [Data](#data)
 - [Map Matching](#map-matching)
 - [Route Planning](#route-planning)
@@ -52,6 +53,13 @@
 - [GO-JEK Tech](https://blog.gojekengineering.com/data-science/home)
 - [Kakao Brain(Only Korea)](https://www.kakaobrain.com/blog)
 - [VCNC Tech Blog(Only Korea)](http://engineering.vcnc.co.kr/)
+
+---
+
+### Presentation
+- DiDi : [Deep Reinforcement Learning with Applications in Transportation](https://outreach.didichuxing.com/tutorial/AAAI2019/)
+- DiDi : [Artificial Intelligence in Transportation](https://outreach.didichuxing.com/tutorial/kdd2018/static/AI%20in%20Transportation_KDD2018_Tutorial_final.pdf)
+
 
 ---
 
