@@ -72,6 +72,7 @@
 - Next Generation Simulation(Federal Highway Administration), [[URL]](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm)
 - GAIA Open Dataset(DiDi Chuxing)  : Trajectory Data, [[URL]](https://outreach.didichuxing.com/research/opendata/en/) 
 - BSS Dataset(Consumer Data Research Centre), [[URL]](https://data.cdrc.ac.uk/dataset?tags=BSS)
+- [Awesome Transportation Network Data](https://github.com/chkwon/awesome-transportation-network-data)
 
 
 ---
