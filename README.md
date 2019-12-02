@@ -20,7 +20,7 @@
 - [Traffic Estimation and Forecasting](#traffic-estimation-and-forecasting)
 - [Dispatching](#dispatching)
 - [Dynamic Pricing](#dynamic-pricing)
-- [Rebanlance Problem](#rebanlance-problem)
+- [Rebanlancing Problem](#rebanlancing-problem)
 - [Graph](#graph)
 - [Supply and Demand Forecasting](#supply-and-demand-forecasting)
 - [Electric Vehicle](#electric-vehicle)
@@ -160,13 +160,14 @@ Service(2018), Han Qiu et al. [[pdf]](https://arxiv.org/pdf/1802.03559.pdf)
 
 ---
 
-### Rebanlance Problem
+### Rebanlancing Problem
 - The bike sharing rebalancing problem: Mathematical formulations and benchmark instances(2014), Mauro Dell [[link]](https://www.sciencedirect.com/science/article/pii/S0305048313001187)
 - An Exact Algorithm for the Static Rebalancing Problem arising in Bicycle Sharing
 Systems(2015), G Erdoğan, [[link]](https://www.researchgate.net/publication/275034214_An_Exact_Algorithm_for_the_Static_Rebalancing_Problem_arising_in_Bicycle_Sharing_Systems)
 - Rebalancing Bike Sharing Systems: A Multi-source Data Smart Optimization(2016), J Liu [[pdf]](https://www.kdd.org/kdd2016/papers/files/rfp0553-liuAemb.pdf), [[video]](https://www.youtube.com/watch?v=5QZHvWmeed4)
+- A Heuristic algorithm for a single vehicle static bike sharing rebalancing problem(2016), Fabio Cruz [[pdf]](https://arxiv.org/pdf/1605.00702.pdf)
 - A Dynamic Approach to Rebalancing Bike-Sharing Systems(2018), Frederico Chiariotti [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856052/)
-
+- Towards Stations-level Demand Prediction for Effective Rebalancing in Bike-Sharing Systems(2018), Pierre Hulot [[pdf]](https://publications.polymtl.ca/3160/1/2018_PierreHulot.pdf)
 
 ---
 
@@ -174,9 +175,7 @@ Systems(2015), G Erdoğan, [[link]](https://www.researchgate.net/publication/275
 ### Graph
 - Short-Term Traffic Forecasting: Modeling and
 Learning Spatio-Temporal Relations in Transportation Networks Using Graph Neural Networks(2015), B Shahsavari [[pdf]](https://pdfs.semanticscholar.org/7acf/bd623bf203d9b075c205883c56acc3649140.pdf)
-- Traffic Graph Convolutional Recurrent Neural
-Network: A Deep Learning Framework for
-Network-Scale Traffic Learning and Forecasting(2018), Zhiyong Cui [[pdf]](https://arxiv.org/pdf/1802.07007.pdf)
+- Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting(2018), Zhiyong Cui [[pdf]](https://arxiv.org/pdf/1802.07007.pdf)
 - Combinatorial Optimization with Graph
 Convolutional Networks and Guided Tree Search(2018), Z Li [[pdf]](http://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf)
 - Optimal Transport for structured data with application on graphs(2019), Titouan Vayer [[pdf]](https://arxiv.org/pdf/1805.09114.pdf)
