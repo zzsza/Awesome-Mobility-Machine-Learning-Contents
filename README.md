@@ -141,8 +141,7 @@ Learning Spatio-Temporal Relations in Transportation Networks Using Graph Neural
 - Design and Modeling of Real-time Shared-Taxi Dispatch Algorithms(2013), J Jun et al. [[pdf]](https://pdfs.semanticscholar.org/65a1/9bf678e034a9987a5ba9b17c1561afa0c7b8.pdf)
 - Large-Scale Order Dispatch in On-Demand Ride-Sharing Platforms: A Learning and Planning Approach(2018), Zhe Xu et al(DiDi AI Labs). [[pdf]](http://delivery.acm.org/10.1145/3220000/3219824/p905-xu.pdf)
 - Order Dispatch in Price-aware Ridesharing(2018), Libin Zheng et al. [[pdf]](http://www.vldb.org/pvldb/vol11/p853-zheng.pdf)
-- Efficient Ridesharing Order Dispatching with
-Mean Field Multi-Agent Reinforcement Learning(2019), Minne Li et al(DiDi Research). [[pdf]](https://arxiv.org/pdf/1901.11454.pdf)
+- Efficient Ridesharing Order Dispatching with Mean Field Multi-Agent Reinforcement Learning(2019), Minne Li et al(DiDi Research). [[pdf]](https://arxiv.org/pdf/1901.11454.pdf)
 - Dynamic Pricing and Matching in Ride-Hailing
 Platforms(2018), Nikita Korolko et al(Uber Technologies). [[pdf]](http://www.nkorolko.com/Uber_matching.pdf)
 - DeepPool: Distributed Model-free Algorithm for
@@ -162,6 +161,7 @@ Service(2018), Han Qiu et al. [[pdf]](https://arxiv.org/pdf/1802.03559.pdf)
 ---
 
 ### Rebanlancing Problem
+- Framework for automated taxi operation: The family model(2016), Michal Kümmel, [[pdf]](https://www.sciencedirect.com/science/article/pii/S2352146517302089/pdf?md5=6eb98ea8d04bb7173130ce9976c1f3f7&pid=1-s2.0-S2352146517302089-main.pdf)
 - The bike sharing rebalancing problem: Mathematical formulations and benchmark instances(2014), Mauro Dell [[link]](https://www.sciencedirect.com/science/article/pii/S0305048313001187)
 - An Exact Algorithm for the Static Rebalancing Problem arising in Bicycle Sharing
 Systems(2015), G Erdoğan, [[link]](https://www.researchgate.net/publication/275034214_An_Exact_Algorithm_for_the_Static_Rebalancing_Problem_arising_in_Bicycle_Sharing_Systems)
