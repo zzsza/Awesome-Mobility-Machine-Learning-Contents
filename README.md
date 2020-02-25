@@ -144,8 +144,10 @@ Learning Spatio-Temporal Relations in Transportation Networks Using Graph Neural
 - Efficient Ridesharing Order Dispatching with Mean Field Multi-Agent Reinforcement Learning(2019), Minne Li et al(DiDi Research). [[pdf]](https://arxiv.org/pdf/1901.11454.pdf)
 - Dynamic Pricing and Matching in Ride-Hailing
 Platforms(2018), Nikita Korolko et al(Uber Technologies). [[pdf]](http://www.nkorolko.com/Uber_matching.pdf)
-- DeepPool: Distributed Model-free Algorithm for
-Ride-sharing using Deep Reinforcement Learning(2019), Abubakr Allabbsi et al. [[pdf]](https://arxiv.org/pdf/1903.03882.pdf)
+- DeepPool: Distributed Model-free Algorithm for Ride-sharing using Deep Reinforcement Learning(2019), Abubakr Alabbasi et al. [[pdf]](https://arxiv.org/pdf/1903.03882.pdf)
+- Deep Reinforcement Learning for Ride-sharing Dispatching and Repositioning(2019), Zhiwei Qin et al. [[pdf]](https://www.ijcai.org/Proceedings/2019/0958.pdf)
+- Employee Ridesharing: Reinforcement Learning and Choice Modeling(2019), Wangcheon Yan et al. [[pdf]](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1395&context=amcis2019)
+
 
 ---
 
@@ -167,8 +169,10 @@ Service(2018), Han Qiu et al. [[pdf]](https://arxiv.org/pdf/1802.03559.pdf)
 Systems(2015), G Erdoğan, [[link]](https://www.researchgate.net/publication/275034214_An_Exact_Algorithm_for_the_Static_Rebalancing_Problem_arising_in_Bicycle_Sharing_Systems)
 - Rebalancing Bike Sharing Systems: A Multi-source Data Smart Optimization(2016), J Liu [[pdf]](https://www.kdd.org/kdd2016/papers/files/rfp0553-liuAemb.pdf), [[video]](https://www.youtube.com/watch?v=5QZHvWmeed4)
 - A Heuristic algorithm for a single vehicle static bike sharing rebalancing problem(2016), Fabio Cruz [[pdf]](https://arxiv.org/pdf/1605.00702.pdf)
+- Rebalancing shared mobility-on-demand systems: A reinforcement learning approach(2017), Jian Wen et al. [[pdf]](https://www.researchgate.net/publication/323791652_Rebalancing_shared_mobility-on-demand_systems_A_reinforcement_learning_approach)
 - A Dynamic Approach to Rebalancing Bike-Sharing Systems(2018), Frederico Chiariotti [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856052/)
 - Towards Stations-level Demand Prediction for Effective Rebalancing in Bike-Sharing Systems(2018), Pierre Hulot [[pdf]](https://publications.polymtl.ca/3160/1/2018_PierreHulot.pdf)
+- A Rebalancing Strategy for the Imbalance Problem in Bike-Sharing Systems(2019), Peiyu et al. [[pdf]](https://www.mdpi.com/1996-1073/12/13/2578/pdf)
 
 ---
 
@@ -249,7 +253,9 @@ and Genetic Algorithm (2018), Tingying Song et al. [[pdf]](http://www.iaeng.org/
 - Bicycle sharing systems demand(2014), I Frade et al. [[pdf]](https://cyberleninka.org/article/n/1177610.pdf)
 - Incentivizing Users for Balancing Bike Sharing Systems(2015), A Singla et al. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9942/9319)
 - Mobility Modeling and Prediction in Bike-Sharing Systems(2016), Z Yang et al. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mobisys16bike.pdf) 
-    
+- A Dynamic Approach to Rebalancing Bike-Sharing Systems(2018), Frederico Chiariotti [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856052/)
+
+
 ---
     
     
