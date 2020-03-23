@@ -1,28 +1,3 @@
-RL
-Efficient Collaborative Multi-Agent Deep Reinforcement Learning for Large-Scale Fleet Management
-
-Rebalancing shared mobility-on-demand systems: A reinforcement learning approach
-
-https://www.researchgate.net/profile/Jinhua_Zhao8/publication/323791652_Rebalancing_shared_mobility-on-demand_systems_A_reinforcement_learning_approach/links/5d46d8ca299bf1995b645644/Rebalancing-shared-mobility-on-demand-systems-A-reinforcement-learning-approach.pdf
-
-- Models individual vehicles as agents that can rebalance themselves
-    - Reward:
-        - Decrease in waiting time compared to unchanged environment
-        - Punishment when not rented during rebalancing period (-5)
-    - State:
-        - Idle vehicles nearby, in-service-vehicles, predicted demand
-    - Action
-        - Noop, north, east, west, south, etc.
-- Talks about a closed form optimization solution (Optimal Rebalancing Problem)
-- Simple Anticipatory Rebalancing
-    - When supply > demand or vice versa, system pushes or pulls idle vehicles from adjacent zones
-
-Dynamic ride-sharing and optimal fleet sizing for a system of shared autonomous vehicles
-
-https://www.caee.utexas.edu/prof/kockelman/public_html/TRB15SAVswithDRSinAustin.pdf
-
-git@github.com:croepke/Awesome-Mobility-Machine-Learning-Contents.git
-
 # Awesome-Mobility-Machine-Learning-Contents
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza%2FAwesome-Mobility-Machine-Learning-Contents)](https://hits.seeyoufarm.com)
