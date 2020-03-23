@@ -1,10 +1,35 @@
+RL
+Efficient Collaborative Multi-Agent Deep Reinforcement Learning for Large-Scale Fleet Management
+
+Rebalancing shared mobility-on-demand systems: A reinforcement learning approach
+
+https://www.researchgate.net/profile/Jinhua_Zhao8/publication/323791652_Rebalancing_shared_mobility-on-demand_systems_A_reinforcement_learning_approach/links/5d46d8ca299bf1995b645644/Rebalancing-shared-mobility-on-demand-systems-A-reinforcement-learning-approach.pdf
+
+- Models individual vehicles as agents that can rebalance themselves
+    - Reward:
+        - Decrease in waiting time compared to unchanged environment
+        - Punishment when not rented during rebalancing period (-5)
+    - State:
+        - Idle vehicles nearby, in-service-vehicles, predicted demand
+    - Action
+        - Noop, north, east, west, south, etc.
+- Talks about a closed form optimization solution (Optimal Rebalancing Problem)
+- Simple Anticipatory Rebalancing
+    - When supply > demand or vice versa, system pushes or pulls idle vehicles from adjacent zones
+
+Dynamic ride-sharing and optimal fleet sizing for a system of shared autonomous vehicles
+
+https://www.caee.utexas.edu/prof/kockelman/public_html/TRB15SAVswithDRSinAustin.pdf
+
+git@github.com:croepke/Awesome-Mobility-Machine-Learning-Contents.git
+
 # Awesome-Mobility-Machine-Learning-Contents
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza%2FAwesome-Mobility-Machine-Learning-Contents)](https://hits.seeyoufarm.com)
 
-- Machine Learning / Deep Learning Contents in Mobility Industry(Transportation) 
+- Machine Learning / Deep Learning Contents in Mobility Industry(Transportation)
 	- I collected it for the purpose of studying
-	- I selected paper with at least 10 citations or latest paper 
+	- I selected paper with at least 10 citations or latest paper
 - Made by [Seongyun Byeon](https://github.com/zzsza) working at SOCAR(Korea Car Sharing Company)
 - Last modified date : 19.06.27
 
@@ -73,7 +98,7 @@
 - Uber Movement(Uber), [[URL]](https://movement.uber.com/?lang=en-US)
 - NYC Taxi DATA(NYC), [[URL]](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - Next Generation Simulation(Federal Highway Administration), [[URL]](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm)
-- GAIA Open Dataset(DiDi Chuxing)  : Trajectory Data, [[URL]](https://outreach.didichuxing.com/research/opendata/en/) 
+- GAIA Open Dataset(DiDi Chuxing)  : Trajectory Data, [[URL]](https://outreach.didichuxing.com/research/opendata/en/)
 - BSS Dataset(Consumer Data Research Centre), [[URL]](https://data.cdrc.ac.uk/dataset?tags=BSS)
 - [Awesome Transportation Network Data](https://github.com/chkwon/awesome-transportation-network-data)
 
@@ -127,7 +152,7 @@
 - Traffic Flow Prediction With Big Data: A Deep Learning Approach(2015), Lv Y et al. [[pdf]](https://ieeenewsandalerts.files.wordpress.com/2015/11/traffic-flow-prediction-with-big-data-a-deep-learning-approach.pdf)
 - SMiler: A Semi-Lazy Time Series Prediction System for sensors(2015), Zhou et al. [[pdf]](https://www.comp.nus.edu.sg/~atung/publication/smiler.pdf)
 - Latent Space Model for Road Networks to Predict Time-Varying Traffic(2016), Deng, D et al.[[pdf]](http://roseyu.com/Papers/kdd2016.pdf)
-- Deep Learning: A Generic Approach for Extreme Condition Traffic Forecasting(2017), Li Y et al. 
+- Deep Learning: A Generic Approach for Extreme Condition Traffic Forecasting(2017), Li Y et al.
 [[paer]](https://pdfs.semanticscholar.org/d0c8/bb3e73cf7a2779ec82e26afd987895df8a93.pdf)
 - Learning Traffic as Images: A Deep Convolutional Neural Network for Large-Scale Transportation Network Speed Prediction(2017), Ma X et al. [[pdf]](https://pdfs.semanticscholar.org/a700/569ffb5be538b61b067d6f4eb7688fb37c63.pdf)
 - Diffusion Convolutional Recurrent Neural Network: Data-driven Traffic Forecasting(2018), Li Y et al. [[pdf]](https://openreview.net/pdf?id=SJiHXGWAZ)
@@ -162,7 +187,7 @@ Service(2018), Han Qiu et al. [[pdf]](https://arxiv.org/pdf/1802.03559.pdf)
 
 ---
 
-### Rebanlancing Problem
+### Rebalancing Problem
 - Framework for automated taxi operation: The family model(2016), Michal Kümmel, [[pdf]](https://www.sciencedirect.com/science/article/pii/S2352146517302089/pdf?md5=6eb98ea8d04bb7173130ce9976c1f3f7&pid=1-s2.0-S2352146517302089-main.pdf)
 - The bike sharing rebalancing problem: Mathematical formulations and benchmark instances(2014), Mauro Dell [[link]](https://www.sciencedirect.com/science/article/pii/S0305048313001187)
 - An Exact Algorithm for the Static Rebalancing Problem arising in Bicycle Sharing
@@ -173,6 +198,8 @@ Systems(2015), G Erdoğan, [[link]](https://www.researchgate.net/publication/275
 - A Dynamic Approach to Rebalancing Bike-Sharing Systems(2018), Frederico Chiariotti [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856052/)
 - Towards Stations-level Demand Prediction for Effective Rebalancing in Bike-Sharing Systems(2018), Pierre Hulot [[pdf]](https://publications.polymtl.ca/3160/1/2018_PierreHulot.pdf)
 - A Rebalancing Strategy for the Imbalance Problem in Bike-Sharing Systems(2019), Peiyu et al. [[pdf]](https://www.mdpi.com/1996-1073/12/13/2578/pdf)
+- A Deep Reinforcement Learning Framework for Rebalancing Dockless Bike Sharing Systems (2018), Pan et al.
+[[link]](https://arxiv.org/abs/1802.04592)
 
 ---
 
@@ -201,9 +228,9 @@ Learning Approach(2017), Jintao Ke et al. [[pdf]](https://arxiv.org/pdf/1706.062
 - Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction(2018), Yao et al. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16069/15978)
 - Forecasting Taxi Demands with Fully Convolutional
 Networks and Temporal Guided Embedding(2018), Doyup Lee et al(Kakao Brain). [[pdf]](https://openreview.net/pdf?id=BygF00DuiX), [[blog #1]](https://www.kakaobrain.com/blog/42), [[blog #2]](https://www.kakaobrain.com/blog/43)
-    
+
 ---
-    
+
 ### Electric Vehicle
 - A self-learning TLBO based dynamic economic/environmental dispatch considering multiple plug-in electric vehicle loads(2014), Zhile Yang et al. [[pdf]](https://link.springer.com/article/10.1007/s40565-014-0087-6)
 - A Comprehensive Study of Key Electric Vehicle (EV)
@@ -234,7 +261,7 @@ Platform Control Capabilities on Performance(2018), Philipp et al. [[pdf]](https
 on Demand(2014), Vu Tran. [[pdf]](https://pdfs.semanticscholar.org/1fd3/61e4ffe328a890bdfa47d440920623939011.pdf)   
 - Vehicle Relocation Scheduling Method for Car
 Sharing Service System based on Markov Chain
-and Genetic Algorithm (2018), Tingying Song et al. [[pdf]](http://www.iaeng.org/publication/IMECS2018/IMECS2018_pp985-988.pdf) 
+and Genetic Algorithm (2018), Tingying Song et al. [[pdf]](http://www.iaeng.org/publication/IMECS2018/IMECS2018_pp985-988.pdf)
 - Uber Driver Schedule Optimization(2018), Ivan Zhou. [[blog]](https://towardsdatascience.com/uber-driver-schedule-optimization-62879ea41658)
 
 ---
@@ -252,13 +279,12 @@ and Genetic Algorithm (2018), Tingying Song et al. [[pdf]](http://www.iaeng.org/
 - Static repositioning in a bike-sharing system: models and solution approaches(2013), Tal Raviv et al. [[pdf]](https://link.springer.com/article/10.1007/s13676-012-0017-6)
 - Bicycle sharing systems demand(2014), I Frade et al. [[pdf]](https://cyberleninka.org/article/n/1177610.pdf)
 - Incentivizing Users for Balancing Bike Sharing Systems(2015), A Singla et al. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9942/9319)
-- Mobility Modeling and Prediction in Bike-Sharing Systems(2016), Z Yang et al. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mobisys16bike.pdf) 
+- Mobility Modeling and Prediction in Bike-Sharing Systems(2016), Z Yang et al. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mobisys16bike.pdf)
 - A Dynamic Approach to Rebalancing Bike-Sharing Systems(2018), Frederico Chiariotti [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856052/)
 
 
 ---
-    
-    
+
+
 ## License
 Distributed under the MIT License. See [LICENSE](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents/blob/master/LICENSE) for more information.    
-  
