@@ -21,7 +21,7 @@
 - [Traffic Estimation and Forecasting](#traffic-estimation-and-forecasting)
 - [Dispatching](#dispatching)
 - [Dynamic Pricing](#dynamic-pricing)
-- [Rebanlancing Problem](#rebanlancing-problem)
+- [Rebalancing Problem](#rebalancing-problem)
 - [Graph](#graph)
 - [Supply and Demand Forecasting](#supply-and-demand-forecasting)
 - [Electric Vehicle](#electric-vehicle)
