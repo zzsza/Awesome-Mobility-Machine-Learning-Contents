@@ -6,7 +6,7 @@
 	- I collected it for the purpose of studying
 	- I selected paper with at least 10 citations or latest paper
 - Made by [Seongyun Byeon](https://github.com/zzsza) working at SOCAR(Korea Car Sharing Company)
-- Last modified date : 19.06.27
+- Last modified date : 20.03.24
 
 ---
 
@@ -110,7 +110,7 @@
 - Travel time estimation of a path using sparse trajectories(2014), Yilun Wang et al. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp0557-zheng1.pdf)
 - Learning to estimate the travel time(2018), Zheng Wang et al(DiDi AI Labs). [[pdf]](http://delivery.acm.org/10.1145/3220000/3219900/p858-wang.pdf)
 - Multi-task Representation Learning for Travel Time Estimation(2018), Yaguang Li et al(DiDi AI Labs). [[pdf]](https://infolab.usc.edu/DocsDemos/kdd_2018_deep_eta.pdf)
-- When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks(2018), Dong Wang1 et al. [[pdf]](http://urban-computing.com/pdf/travel%20time%20estimation-AAAI%202018-Zheng.pdf)
+- When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks(2018), Dong Wang et al. [[pdf]](http://urban-computing.com/pdf/travel%20time%20estimation-AAAI%202018-Zheng.pdf)
 
 ---
 
