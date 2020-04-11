@@ -29,6 +29,7 @@
 - [Scheduling Optimization](#scheduling-optimization)
 - [Autonomous Vehicle](#autonomous-vehicle)
 - [Bike Sharing](#bike-sharing)
+- [Challenges](#challenges)
 
 
 ---
@@ -100,6 +101,7 @@
 - Imagination-Augmented Agents for Deep Reinforcement Learning(2017), T. Weber et al. [[pdf]](https://arxiv.org/pdf/1707.06203.pdf)
 - Learning to navigate in cities without a map(2018), Piotr Mirowski et al. [[pdf]](https://papers.nips.cc/paper/7509-learning-to-navigate-in-cities-without-a-map.pdf)
 - A Unified Approach to Route Planning for Shared Mobility(2018), Yongxin Tong et al. [[pdf]](http://www.vldb.org/pvldb/vol11/p1633-tong.pdf)
+- PRIMAL: Pathfinding via Reinforcement and Imitation Multi-Agent Learning(2018), Guillaume Sartoretti  et al. [[pdf]](https://arxiv.org/abs/1809.03531)
 
 ---
 
@@ -257,9 +259,14 @@ and Genetic Algorithm (2018), Tingying Song et al. [[pdf]](http://www.iaeng.org/
 - Mobility Modeling and Prediction in Bike-Sharing Systems(2016), Z Yang et al. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mobisys16bike.pdf)
 - A Dynamic Approach to Rebalancing Bike-Sharing Systems(2018), Frederico Chiariotti [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856052/)
 
-
 ---
 
+### Challenges
+- Flatland Challenge - Multi Agent Reinforcement Learning on Trains(2020), [[link]](https://www.aicrowd.com/challenges/flatland-challenge)
+- Road extraction from satellite images(2019), [[link]](https://www.aicrowd.com/challenges/epfl-ml-road-segmentation-2019)
+- Lyft 3D Object Detection for Autonomous Vehicles(2019), [[link]](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles)
+
+---
 
 ## License
 Distributed under the MIT License. See [LICENSE](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents/blob/master/LICENSE) for more information.    
