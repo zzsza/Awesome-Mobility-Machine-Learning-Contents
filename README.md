@@ -6,7 +6,7 @@
 	- I collected it for the purpose of studying
 	- I selected paper with at least 10 citations or latest paper
 - Made by [Seongyun Byeon](https://github.com/zzsza) working at SOCAR(Korea Car Sharing Company)
-- Last modified date : 20.11.28
+- Last modified date : 21.02.13
 
 ---
 
@@ -154,7 +154,7 @@ Platforms(2018), Nikita Korolko et al(Uber Technologies). [[pdf]](http://www.nko
 ---
 
 ### Surge Pricing
-- Driver Surge Pricing(2020), Nikhil Garg, [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3390346)
+- Driver Surge Pricing(2020), Nikhil Garg, [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3390346)
 - Vehicle Sharing System Pricing Optimization(2013), A Waserhole. [[pdf]](https://tel.archives-ouvertes.fr/tel-01176190/document)
 - Pricing in Ride-share Platforms: A Queueing-Theoretic Approach(2015), Carlos Riquelme et al. [[pdf]](http://www.columbia.edu/~ww2040/8100F16/Riquelme-Johari-Banerjee.pdf)
 - Dynamic Pricing in Ridesharing Platforms(2015), [[pdf]](https://simons.berkeley.edu/sites/default/files/docs/4078/simonsrj.pdf), [[video]](https://www.youtube.com/watch?v=lDLqrsye-rQ)
