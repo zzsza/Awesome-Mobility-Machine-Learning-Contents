@@ -134,8 +134,7 @@
 - Learning Traffic as Images: A Deep Convolutional Neural Network for Large-Scale Transportation Network Speed Prediction(2017), Ma X et al. [[pdf]](https://pdfs.semanticscholar.org/a700/569ffb5be538b61b067d6f4eb7688fb37c63.pdf)
 - Diffusion Convolutional Recurrent Neural Network: Data-driven Traffic Forecasting(2018), Li Y et al. [[pdf]](https://openreview.net/pdf?id=SJiHXGWAZ)
 - Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models(2018), Ma X et al. [[pdf]](https://arxiv.org/pdf/1811.04745.pdf)
-- Short-Term Traffic Forecasting: Modeling and
-Learning Spatio-Temporal Relations in Transportation Networks Using Graph Neural Networks(2015), B Shahsavari [[pdf]](https://pdfs.semanticscholar.org/7acf/bd623bf203d9b075c205883c56acc3649140.pdf)
+- Short-Term Traffic Forecasting: Modeling and Learning Spatio-Temporal Relations in Transportation Networks Using Graph Neural Networks(2015), B Shahsavari [[pdf]](https://pdfs.semanticscholar.org/7acf/bd623bf203d9b075c205883c56acc3649140.pdf)
 
 ---
 
@@ -158,10 +157,8 @@ Platforms(2018), Nikita Korolko et al(Uber Technologies). [[pdf]](http://www.nko
 - Vehicle Sharing System Pricing Optimization(2013), A Waserhole. [[pdf]](https://tel.archives-ouvertes.fr/tel-01176190/document)
 - Pricing in Ride-share Platforms: A Queueing-Theoretic Approach(2015), Carlos Riquelme et al. [[pdf]](http://www.columbia.edu/~ww2040/8100F16/Riquelme-Johari-Banerjee.pdf)
 - Dynamic Pricing in Ridesharing Platforms(2015), [[pdf]](https://simons.berkeley.edu/sites/default/files/docs/4078/simonsrj.pdf), [[video]](https://www.youtube.com/watch?v=lDLqrsye-rQ)
-- Dynamic Pricing and Matching in Ride-Hailing
-Platforms(2018), Nikita Korolko et al(Uber Technologies). [[pdf]](http://www.nkorolko.com/Uber_matching.pdf)
-- Dynamic Pricing in Shared Mobility on Demand
-Service(2018), Han Qiu et al. [[pdf]](https://arxiv.org/pdf/1802.03559.pdf)
+- Dynamic Pricing and Matching in Ride-Hailing Platforms(2018), Nikita Korolko et al(Uber Technologies). [[pdf]](http://www.nkorolko.com/Uber_matching.pdf)
+- Dynamic Pricing in Shared Mobility on Demand Service(2018), Han Qiu et al. [[pdf]](https://arxiv.org/pdf/1802.03559.pdf)
 
 ---
 
@@ -178,6 +175,7 @@ Systems(2015), G Erdoğan, [[link]](https://www.researchgate.net/publication/275
 - A Rebalancing Strategy for the Imbalance Problem in Bike-Sharing Systems(2019), Peiyu et al. [[pdf]](https://www.mdpi.com/1996-1073/12/13/2578/pdf)
 - A Deep Reinforcement Learning Framework for Rebalancing Dockless Bike Sharing Systems (2018), Pan et al.
 [[link]](https://arxiv.org/abs/1802.04592)
+- Real-world Ride-hailing Vehicle Repositioning using Deep Reinforcement Learning(2021), Yan Jiao et al. [[pdf]](https://arxiv.org/pdf/2103.04555.pdf)
 
 ---
 
@@ -235,11 +233,8 @@ Platform Control Capabilities on Performance(2018), Philipp et al. [[pdf]](https
 - Scheduling part-time personnel with availability restrictions and preferences to maximize employee satisfaction(2008), S Mohan et al. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0895717708000526)
 - Genetic Algorithms For Shop Scheduling Problems : A Survey(2011), Frank Werner. [[pdf]](http://www.mat.uab.cat/~alseda/MasterOpt/p11-31.pdf)
 - Scheduling part-time and mixed-skilled workers to maximize employee satisfaction(2012), M Akbari et al. [[pdf]](https://link.springer.com/content/pdf/10.1007%2Fs00170-012-4032-4.pdf)
-- Optimization of Scheduling and Dispatching Cars
-on Demand(2014), Vu Tran. [[pdf]](https://pdfs.semanticscholar.org/1fd3/61e4ffe328a890bdfa47d440920623939011.pdf)   
-- Vehicle Relocation Scheduling Method for Car
-Sharing Service System based on Markov Chain
-and Genetic Algorithm (2018), Tingying Song et al. [[pdf]](http://www.iaeng.org/publication/IMECS2018/IMECS2018_pp985-988.pdf)
+- Optimization of Scheduling and Dispatching Cars on Demand(2014), Vu Tran. [[pdf]](https://pdfs.semanticscholar.org/1fd3/61e4ffe328a890bdfa47d440920623939011.pdf) 
+- Vehicle Relocation Scheduling Method for Car Sharing Service System based on Markov Chain and Genetic Algorithm (2018), Tingying Song et al. [[pdf]](http://www.iaeng.org/publication/IMECS2018/IMECS2018_pp985-988.pdf)
 - Uber Driver Schedule Optimization(2018), Ivan Zhou. [[blog]](https://towardsdatascience.com/uber-driver-schedule-optimization-62879ea41658)
 
 ---
